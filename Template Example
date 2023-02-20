@@ -1,0 +1,26 @@
+---------------- FRONT TEMPLATE-----------------------
+
+<img src="mexflag.PNG" width=40 align=left>
+<br>
+<br>
+<div id="kard">
+<div class="tags">{{Tags}}</div>
+{{Expression}}
+<br>
+{{Audio}}
+</div>
+
+
+
+---------------- BACK TEMPLATE-----------------------
+
+<img src="mexflag.PNG" width=40 align=left>
+<br>
+<br>
+<div id="kard">
+    <div class="tags" id='tags'>{{Tags}}</div>
+        {{Expression}}
+<hr>
+    {{Meaning}}
+    <div>&nbsp;</div>
+    </div>
