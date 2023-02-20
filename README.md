@@ -12,4 +12,4 @@ First, download a flag.
 Second, store that file in your Anki Collection folder. This changed recently, I'll defer to Anki's documentation for the exact location: 
 https://docs.ankiweb.net/files.html#file-locations
 
-Third, update your Deck's Card Templates, Front and Back, with the code begining with: img src = 
+Third, update your Deck's Card Templates, Front and Back, with the code begining with: img src = along with the name of your image file. 
